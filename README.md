@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá👋, eu sou Gabe! Atualmente cursando Ciência da Computação.
+  Olá👋, eu sou Gabe! Estou atualmente cursando Ciência da Computação.
 
   - Estou em busca do meu primeiro emprego.
   - Pretendo me especializar em AI e Cloud.
