@@ -1,5 +1,3 @@
-/>
-  </div>
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -15,7 +13,6 @@
   - Portfólio em construção.
 </p>
 
-## Contato
-
 <!-- Links -->
+## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
